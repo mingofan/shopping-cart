@@ -102,3 +102,4 @@ runs:
   using: node20
   main: dist/index.js
   post: dist/index.js
+  ![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
